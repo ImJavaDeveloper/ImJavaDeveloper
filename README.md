@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahat Ali (@ImJavaDeveloper)
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning java technology
 - 🌱 I’m currently learning spring boot,kubernetes,docker,Okta,Kafka,RabbitMq 
 - 💞️ I’m looking to collaborate on Kubernetes and Kafka
 - 📫 You can reach me with email: rahat.iu786@gmail.com and mob: +918087561312
