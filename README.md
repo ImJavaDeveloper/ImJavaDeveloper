@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Rahat Ali (@ImJavaDeveloper)
-- 👀 I’m interested in learning java technology
-- 🌱 I’m currently learning spring boot,kubernetes,docker,Okta,Kafka,RabbitMq 
-- 💞️ I’m looking to collaborate on Kubernetes and Kafka
-- 📫 You can reach me with email: rahat.iu786@gmail.com and mob: +918087561312
+👋 Hello, I'm Rahat Ali
 
-<!---
-ImJavaDeveloper/ImJavaDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I'm passionate about Java, cloud computing, and AI, exploring their intersections and applications in modern technology.
+
+💻 On GitHub, I share projects and resources related to:
+   - Java development
+   - Cloud computing solutions
+   - AI algorithms and applications
+
+📫 Reach me:
+   - LinkedIn: https://www.linkedin.com/in/rahat-ali-466b0232/
+
+🌱 Always eager to learn and collaborate on exciting new projects in the realm of Java, cloud, and AI!
+
+🔗 Check out my repositories below and feel free to connect!
